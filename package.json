@@ -1,0 +1,22 @@
+{
+  "name": "sample",
+  "version": "1.0.0",
+  "description": "sample",
+  "scripts": {
+    "test": "karma start"
+  },
+  "engines": {
+    "node": "4.4.x"
+  },
+  "keywords": [
+    "karma-plugin"
+  ],
+  "author": "me",
+  "devDependencies": {
+    "karma": "0.13.22",
+    "jasmine-core": "^2.4.1",
+    "karma-cli": "^1.0.0",
+    "karma-firefox-launcher": "^1.0.0",
+    "karma-jasmine": "^1.0.2"
+  }
+}

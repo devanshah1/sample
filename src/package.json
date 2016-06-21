@@ -1,0 +1,17 @@
+{
+  "name": "karma-sample-info",
+  "version": "1.0.0",
+  "description": "Sample.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "karma-plugin"
+  ],
+  "author": "me",
+  "dependencies": {
+    "karma": "0.13.22",
+    "path": "^0.12.7"
+  }
+}
